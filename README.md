@@ -1,7 +1,7 @@
 ### Hi there 👋
 
--- LinkedIn https://www.linkedin.com/in/rafael-jereissate-2815531b3/
--- 📫 How to reach me: rafaeljereissate@hotmail.com
+- LinkedIn https://www.linkedin.com/in/rafael-jereissate-2815531b3/
+- 📫 How to reach me: rafaeljereissate@hotmail.com
 <!--
 **jereissate/jereissate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
